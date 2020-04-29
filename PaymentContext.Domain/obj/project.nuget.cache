@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gSClKirkXrrzvpFZAdskmA6+EUeIogiq6867CXAtZ7vVgSUpLXLKjJwIktqtyT0hAHJgpA+CtwnYNJzLIqQ6Rw==",
+  "dgSpecHash": "PHp6BhJ1U5ISdd+nQKqf1XLMJTxk0Dv0eCsJ6kSTvBsVtTbw0LzJgzkE308971aHKgY0jmkMfn12Ljk+nqT+LA==",
   "success": true,
   "projectFilePath": "C:\\dev\\c#\\modelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
   "expectedPackageFiles": [
